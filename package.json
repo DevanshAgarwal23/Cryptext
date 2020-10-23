@@ -1,0 +1,12 @@
+{
+  "name": "cryptext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin" : "./bin/cryptext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devansh Agarwal",
+  "license": "MIT"
+}
