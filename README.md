@@ -21,4 +21,16 @@ Command Line interface written in Node.js to check cryptocurrency prices.
 
 # Version
    $ cryptext -V
+
+# API Key Commands
+   cryptext key set
+   cryptext key show
+   cryptext key remove
+
+
+# Crypto Check Commands (default: BTC , ETH, XRP)
+   cryptext check price 
+
+
+
 ```
